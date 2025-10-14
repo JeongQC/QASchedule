@@ -3,8 +3,8 @@
 **Seon-Geun Jeong<sup>1</sup>, Mai Dinh Cong<sup>1</sup>, Minh-Duong Nguyen<sup>2</sup>, Xuan Tung Nguyen<sup>3</sup>, Quoc-Viet Pham<sup>4</sup> and Won-Joo Hwang<sup>1,5,*</sup>**
 
 <sup>1</sup> Department of Information Convergence Engineering, Pusan National University, Busan, Republic of Korea  
-<sup>2</sup> Department of Intelligent Computing and Data Science, VinUniversity, Hanoi, Vietnam
-<sup>3</sup> Faculty of Interdisciplinary Digital Technology, Phenikaa University, Yen Nghia, Vietnam
+<sup>2</sup> Department of Intelligent Computing and Data Science, VinUniversity, Hanoi, Vietnam  
+<sup>3</sup> Faculty of Interdisciplinary Digital Technology, Phenikaa University, Yen Nghia, Vietnam  
 <sup>4</sup> School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland  
 <sup>5</sup> School of Computer Science and Engineering, Pusan National University, Busan, Republic of Korea  
 
